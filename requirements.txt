@@ -8,3 +8,5 @@ llama-cpp-python==0.2.85
 nltk==3.8.1
 sentence_transformers
 langchain
+cmake
+ninja
