@@ -2,3 +2,16 @@ gcc
 g++
 cmake
 ninja-build
+Pillow==10.4.0
+Requests==2.32.3
+streamlit==1.37.0
+streamlit_lottie==0.0.5
+streamlit_timeline==0.0.2
+llama-index>=0.10.59
+nltk==3.8.1
+sentence_transformers
+langchain
+cmake
+ninja
+llama-cpp-python
+libpthread-stubs0-dev
